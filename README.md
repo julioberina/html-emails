@@ -8,3 +8,6 @@ on [Codepen](https://codepen.io). Listed below are links to each pen.
 
 ### Coffee Bean & Tea Leaf HTML Email
 <https://codepen.io/JulioBerina/pen/MqwGJR>
+
+### ALDO HTML Email
+<https://codepen.io/JulioBerina/pen/KxVRdy>
